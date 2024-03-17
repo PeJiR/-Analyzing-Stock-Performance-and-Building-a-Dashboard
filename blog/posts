@@ -3291,7 +3291,7 @@
 						<div class=feed-series-indicator aria-hidden=true></div>
 						<div class="flex gap-4 flex-col flex-1">
 							<div class="feed rich-text-content text-base text-gray-500">
-								<p>We use <a href=https://nixos.org/>Nix</a> at Project IDX to manage development
+								<p>We use <a href=https://nixos.org />Nix</a> at Project IDX to manage development
 									environments. Nix is an open source environment manager that is fast, scalable, and
 									deterministic. With Nix, there&#39;s no more &quot;it works on my machine&quot;
 									problems. Nix may not be a tool you&#39;ve heard of before, but it&#39;s been
@@ -3402,7 +3402,7 @@
 							<div class="feed rich-text-content text-base text-gray-500">
 								<p>Will your future development environment be entirely based in the cloud? I had a chat
 									with <a href=https://twitter.com/codepo8>Chris Heilmann</a> of <a
-										href=https://www.wearedevelopers.com/>WeAreDevelopers</a> about what the future
+										href=https://www.wearedevelopers.com />WeAreDevelopers</a> about what the future
 									of coding looks like and the shift from local environments to cloud based ones.</p>
 							</div><a href=https://idx.dev
 								class="flex gap-4 flex-col -ml-4 border duration-200 ease-in-out group hover:bg-gray-200 hover:border-gray-300 p-4 rounded-xl self-stretch transition-colors"
