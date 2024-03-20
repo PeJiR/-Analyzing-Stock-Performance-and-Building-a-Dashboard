@@ -486,6 +486,7 @@ main:after {
 }
 
 .terminal-open #terminal main:after {
+    
     animation: none
 }
 
