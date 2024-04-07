@@ -1,3 +1,7 @@
 {
-    "liveServer.settings.port": 5501
+    "liveServer.settings.port": 5501,
+    "editor.wordWrap": "on",
+    "diffEditor.wordWrap": "on",
+    "notebook.output.wordWrap": true,
+    "chat.editor.wordWrap": "on"
 }
